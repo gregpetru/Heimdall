@@ -416,10 +416,10 @@ Until authentication/authorization is implemented (roadmap item), treat the API 
 
 ## Roadmap
 
-- [x] Core API & module loader
-- [x] Kea DHCP module
-- [x] BIND module
-- [x] NetBox module
+- [ ] Core API & module loader
+- [ ] Kea DHCP module
+- [ ] BIND module
+- [ ] NetBox module
 - [ ] Web UI (React)
 - [ ] Authentication (local + LDAP)
 - [ ] Audit log
